@@ -1,8 +1,6 @@
 # Chinese-Character-and-Calligraphic-Image-Processing
 Some interesting method like style transfer, GAN, deep neural networks for Chinese character and calligraphic image processing
 
-# Uploading...... 
-
 # 1. Classification for 30 different Fonts 
 ### Dataset: https://pan.baidu.com/s/1LVcfD_M-pI3Vkscsb6hlow  Extract code: lqp2
 ### Part of the dataset
