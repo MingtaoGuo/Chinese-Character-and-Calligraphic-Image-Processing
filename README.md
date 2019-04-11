@@ -32,7 +32,7 @@ The method of this application, we just simply use pix2pix to generate another s
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/denoise.jpg)
 
 # 4. Chinese character inpainting
-
+![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/inpainting.jpg)
 # Acknowledgement
 These great calligraphy works are written by my teacher Prof. Zhang.
 
