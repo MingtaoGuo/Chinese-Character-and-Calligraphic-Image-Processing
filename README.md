@@ -28,3 +28,4 @@ Some interesting method like style transfer, GAN, deep neural networks for Chine
 The method of this application, we just simply use pix2pix to generate another style of Chinese character.
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/zi2zi.jpg)
 
+# To be continued...
