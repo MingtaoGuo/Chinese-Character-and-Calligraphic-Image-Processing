@@ -30,7 +30,6 @@ Dataset: https://pan.baidu.com/s/1JagVbA8p-Bn5OnoOErJAyQ extract code: 2vku
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/zi2zi.jpg)
 
 # 3. Calligraphic image denoising
-Details: https://github.com/MingtaoGuo/Calligraphic-Images-Denoising-by-GAN
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/denoise.jpg)
 
 # 4. Chinese character inpainting
