@@ -25,7 +25,8 @@ Content image dataset: http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILS
 
 ### zi2zi
 The method of this application, we just simply use pix2pix to generate another style of Chinese character.
-dataset: 链接：https://pan.baidu.com/s/1JagVbA8p-Bn5OnoOErJAyQ extract code: 2vku 
+
+dataset: https://pan.baidu.com/s/1JagVbA8p-Bn5OnoOErJAyQ extract code: 2vku 
 
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/zi2zi.jpg)
 
