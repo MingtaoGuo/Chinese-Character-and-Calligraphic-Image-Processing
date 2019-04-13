@@ -18,6 +18,8 @@ Some interesting method like style transfer, GAN, deep neural networks for Chine
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/n_style_transfer.jpg)
 Content image dataset: http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar
 
+Details: https://github.com/MingtaoGuo/Conditional-Instance-Norm-for-n-Style-Transfer
+
 ### Style fusion
 |||||||
 |-|-|-|-|-|-|
@@ -26,11 +28,14 @@ Content image dataset: http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILS
 ### zi2zi
 The method of this application, we just simply use pix2pix to generate another style of Chinese character.
 
-dataset: https://pan.baidu.com/s/1JagVbA8p-Bn5OnoOErJAyQ extract code: 2vku 
+Dataset: https://pan.baidu.com/s/1JagVbA8p-Bn5OnoOErJAyQ extract code: 2vku 
+
+Details: https://github.com/MingtaoGuo/DCGAN_WGAN_WGAN-GP_LSGAN_SNGAN_RSGAN_BEGAN_ACGAN_PGGAN_TensorFlow
 
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/zi2zi.jpg)
 
 # 3. Calligraphic image denoising
+Details: https://github.com/MingtaoGuo/Calligraphic-Images-Denoising-by-GAN
 ![](https://github.com/MingtaoGuo/Chinese-Character-and-Calligraphic-Image-Processing/blob/master/IMGS/denoise.jpg)
 
 # 4. Chinese character inpainting
